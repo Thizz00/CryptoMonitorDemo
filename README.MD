@@ -2,7 +2,7 @@
 
 ## Brief
 
-An example of an application that allows you to download data for **Ethereum** and **Monero** cryptocurrencies from the Binance API. Metrics are collected by **Prometheus** and then presented on the dashboard in **Graphana** in real time.
+An example of an application that allows you to download data for cryptocurrencies from the Binance API. Metrics are collected by **Prometheus** and then presented on the dashboard in **Graphana** in real time.
 The data is downloaded with a delay of several minutes.
 
 ![App Screenshot](/docs/dashboard.png)
